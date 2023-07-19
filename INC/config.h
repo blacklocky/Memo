@@ -1,0 +1,36 @@
+#ifndef _CONFIG_H_
+#define _CONFIG_H_
+
+
+
+#define SCREENHEIGHT 768
+#define SCREENWIDTH 1024
+#define USRSLISTPATH "C:\\MEMO\\USERS\\usrs.txt"
+#define ROOTUSRPATH "C:\\MEMO\\USERS\\"
+
+#define TEXT_TITLE_X 400
+#define TEXT_TITLE_Y 80
+#define MAX_LINES 18
+#define MAX_NLINES 18
+#define MAX_LFTLINES 25
+#define MAX_LINE_LENGTH 35
+#define MAX_LINE_NLENGTH 35
+#define TEXT_PAGE_X 400
+#define TEXT_PAGE_Y 120
+#define TEXT_PAGE_X_END 968
+#define TEXT_PAGE_Y_END 700
+#define MARGIN_OFF 3
+#define TEXT_BODY_WDITH 568
+#define TEXT_BODY_HEIGHT 620 
+#define ROOTDBPATH "C:\\MEMO\\USERS\\"
+#define FILEGAP_SIG "\\"
+#define INIT_DATA_LENGTH 20
+#define TASK_LENGTH 31
+#define ID_LENGTH 9
+#define DDL_LENGTH 11
+#define PATH_LENGTH 41
+#define USRNAME_LENGTH 11
+#define NUM_TASKS 6
+#define OTHER_TASK_NUM 3
+
+#endif
