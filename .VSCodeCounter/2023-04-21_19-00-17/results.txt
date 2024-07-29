@@ -1,0 +1,52 @@
+Date : 2023-04-21 19:00:17
+Directory : c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo
+Total : 23 files,  5103 codes, 578 comments, 433 blanks, all 6114 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         23 |      5,103 |        578 |        433 |      6,114 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                     | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                        |         23 |      5,103 |        578 |        433 |      6,114 |
+| . (Files)                                                                |          1 |          7 |         15 |          4 |         26 |
+| INC                                                                      |         11 |        671 |         35 |         77 |        783 |
+| LIB                                                                      |          1 |        584 |          3 |         11 |        598 |
+| LIB\SVGA                                                                 |          1 |        584 |          3 |         11 |        598 |
+| SRC                                                                      |         10 |      3,841 |        525 |        341 |      4,707 |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                 | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\config.h      | C++      |         31 |          0 |          5 |         36 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\core.h        | C++      |         19 |          0 |          5 |         24 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\draw.h        | C++      |         21 |          0 |          1 |         22 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\editor.h      | C++      |        106 |         12 |         23 |        141 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\fangs.h       | C++      |          6 |          0 |          1 |          7 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\file.h        | C++      |         11 |         13 |          1 |         25 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\gramd.h       | C++      |        299 |          2 |          3 |        304 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\memo.h        | C++      |         18 |          4 |          5 |         27 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\moudle.h      | C++      |         54 |          0 |          8 |         62 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\mouse.h       | C++      |         29 |          2 |          9 |         40 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\INC\photo.h       | C++      |         77 |          2 |         16 |         95 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\LIB\SVGA\init.cpp | C++      |        584 |          3 |         11 |        598 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\SRC\core.cpp      | C++      |        539 |         76 |         26 |        641 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\SRC\draw.cpp      | C++      |        155 |         17 |         21 |        193 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\SRC\editor.cpp    | C++      |      1,495 |        136 |        122 |      1,753 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\SRC\fangs.cpp     | C++      |         84 |          0 |         11 |         95 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\SRC\file.cpp      | C++      |         37 |          0 |          7 |         44 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\SRC\gramd.cpp     | C++      |        305 |          3 |          8 |        316 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\SRC\memo.cpp      | C++      |        531 |        105 |         63 |        699 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\SRC\moudle.cpp    | C++      |        338 |         94 |         20 |        452 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\SRC\mouse.cpp     | C++      |        231 |         84 |         25 |        340 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\SRC\photo.cpp     | C++      |        126 |         10 |         38 |        174 |
+| c:\Users\32089\Desktop\tmp5\BorlandC++ 3.1\DISK_C\memo\main.cpp          | C++      |          7 |         15 |          4 |         26 |
+| Total                                                                    |          |      5,103 |        578 |        433 |      6,114 |
++--------------------------------------------------------------------------+----------+------------+------------+------------+------------+
